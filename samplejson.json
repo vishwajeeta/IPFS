@@ -1,0 +1,20 @@
+[
+    {
+        "Sample ID":"student_1",
+        "Student_name":"le hong sa",
+        "course":"BBA"
+        
+    },
+    {
+        "Sample ID":"student_2",
+        "Student_name":"onam",
+        "course":"BSC"
+        
+    },
+    {
+        "Sample ID":"student_1",
+        "Student_name":"alex",
+        "course":"BBA"
+        
+    }
+]
