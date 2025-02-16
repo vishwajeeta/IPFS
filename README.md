@@ -1,7 +1,7 @@
 # IPFS
 ## Automated scripts
 1. ipfs desktop
-2. pinata
+2. pinata IPFS
 ## To check ipfs version
 ```
 ipfs version
